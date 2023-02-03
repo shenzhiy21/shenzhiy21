@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shenzhiy21.
+- 👋 Hi, there.
 - 🌱 I’m currently learning software engineering in Tsinghua University.
 - 📫 How to reach me: shenzhiy21@mails.tsinghua.edu.cn
 
